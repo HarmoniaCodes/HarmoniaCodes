@@ -1,10 +1,14 @@
 # Hello! My name is Nick 👋
-### I write code to make life easier for people with ADHD and/or OCD
+### I'm a self-taught front-end web developer with a focus on functional and accessible websites with elegantly minimal designs.
 
 Please view some of my projects below!
 
-- 🔭 I’m currently working on React.js App
-- 🌱 I’m currently learning React
+- 🔭 [Check out my portfolio on Frontend Mentor](https://www.frontendmentor.io/profile/HarmoniaCodes)
 - 👯 I’m looking to collaborate on Front-end Web Development -- Mentors wanted!
-- 📫 How to reach me: Let's connect on Linkedin!
 - 😄 Pronouns: He/Him
+
+### Let's Connect!
+[Twitter](http://twitter.com/harmoniacodes) | LinkedIn
+
+### Skills
+
