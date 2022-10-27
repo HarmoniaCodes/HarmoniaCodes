@@ -10,4 +10,6 @@ Please view some of my projects below!
 [Twitter](http://twitter.com/harmoniacodes) | LinkedIn
 
 ### Skills and Tools
-![Skills include atom, bootstrap, css, figma, html, js, linux, visualstudio](https://skillicons.dev/icons?i=git,atom, bootstrap, css, figma, html, js, linux, visualstudio)
+<picture>
+<img src="https://skillicons.dev/icons?i=git,atom,bootstrap,css,figma,html,js,linux,visualstudio">
+</picture>
