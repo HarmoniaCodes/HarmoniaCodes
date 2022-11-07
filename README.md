@@ -7,7 +7,7 @@ Please view some of my projects below!
 - 😄 Pronouns: He/Him
 
 ### Let's Connect!
-[Mastodon]([http://tech.lgbt/harmonia](https://tech.lgbt/web/@harmonia)) | [LinkedIn](https://www.linkedin.com/in/nick-johnson-88aa1320a/)
+[Mastodon](http://tech.lgbt/harmonia](https://tech.lgbt/web/@harmonia) | [LinkedIn](https://www.linkedin.com/in/nick-johnson-88aa1320a/)
 
 ### Skills and Tools
 <picture>
