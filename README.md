@@ -1,9 +1,9 @@
 # Hello! My name is Nick 👋
-### I'm a self-taught front-end web developer with a focus on functional and accessible websites with elegantly minimal designs.
+### I'm a front-end web developer with a focus on functional and accessible websites with elegantly minimal designs.
 
 Please view some of my projects below!
 
-- 🔭 [Check out my portfolio on Frontend Mentor](https://www.frontendmentor.io/profile/HarmoniaCodes)
+- 🔭 Currently working on: various ReactJS projects
 - 😄 Pronouns: He/Him
 
 ### Let's Connect!
