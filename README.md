@@ -1,8 +1,6 @@
 # Hello! My name is Nick 👋
 ### I'm a front-end web developer with a focus on creating tools that help teachers and neurodivergent people more easily complete tasks.
 
-Please view some of my projects below!
-
 - 🔭 Currently working on: various ReactJS projects
 - 😄 Pronouns: He/Him
 
@@ -13,9 +11,7 @@ Please view some of my projects below!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/nick-johnson-88aa1320a)
 
 ### Skills and Tools
-<picture>
-<img src="https://skillicons.dev/icons?i=git,atom,bootstrap,css,figma,html,js,linux,visualstudio">
-</picture>
+HTML, CSS, Javascript, ReactJS, Tailwind CSS, Windows, MacOS, Linux, VS Code
 
 ### Stats
 ![Harmonia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=harmoniacodes&theme=tokyonight&show_icons=true)
