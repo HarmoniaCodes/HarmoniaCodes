@@ -1,5 +1,5 @@
 # Hello! My name is Nick 👋
-### I'm a front-end web developer with a focus on functional and accessible websites with elegantly minimal designs.
+### I'm a front-end web developer with a focus on creating tools that help teachers and neurodivergent people more easily complete tasks.
 
 Please view some of my projects below!
 
