@@ -1,5 +1,5 @@
 # Hello! My name is Nick 👋
-### I'm a front-end web developer with a focus on creating tools that help teachers and neurodivergent people more easily complete tasks.
+### I'm a fullstack developer with a focus on creating tools that help teachers and neurodivergent people more easily complete tasks.
 
 - 🔭 Currently working on: various ReactJS projects
 - 😄 Pronouns: He/Him
