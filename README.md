@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/nick-johnson-88aa1320a)
 
 ### Skills and Tools
-HTML, CSS, Javascript, ReactJS, Tailwind CSS, Windows, MacOS, Linux, VS Code
+HTML, CSS, Javascript, ReactJS, Tailwind CSS, EJS, Windows, MacOS, Linux, VS Code
 
 ### Stats
 ![Harmonia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=harmoniacodes&theme=tokyonight&show_icons=true)
